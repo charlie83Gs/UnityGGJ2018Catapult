@@ -4,7 +4,7 @@
 //cualquer cosa que consideren deberia de ir aqui agregenla
 Cosas por hacer(podrian hacerse):
 
--Creditos
+- Creditos
 
 -Pausa
 
