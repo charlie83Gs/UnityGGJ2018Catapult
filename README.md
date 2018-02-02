@@ -24,7 +24,7 @@ Cosas por hacer(podrian hacerse):
 
 - Almacenamiento de datos no volatil
 
--Tutorial
+- Tutorial
 
 
 
