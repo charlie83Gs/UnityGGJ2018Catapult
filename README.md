@@ -6,29 +6,28 @@ Cosas por hacer(podrian hacerse):
 
 - Creditos
 
--Pausa
+- Pausa
 
--Modos de juego(mejor de 3,5,7 etc)
+- Modos de juego(mejor de 3,5,7 etc)
 
--Transiciones
+- Transiciones
 
--Particulas
+- Particulas
 
--Poder especial de easter egg
+- Poder especial de easter egg
 
--Optimizacion de generacion de mundo combinando meshes
+- Optimizacion de generacion de mundo combinando meshes
 
--Sonidos
+- Sonidos
 
--Configuracion de controles en el juego
+- Configuracion de controles en el juego
 
--Almacenamiento de datos no volatil
+- Almacenamiento de datos no volatil
 
 -Tutorial
 
--
--
--
+
+
 //si hay suficientes cambios modifiquen inventense la version que sigue y los listan
 
 
@@ -45,15 +44,15 @@ Cosas por hacer(podrian hacerse):
 
 Version 2.0.1
 
--Unificacion de scripts de control
+- Unificacion de scripts de control
 
--cambio al shader de los materiales ya que la mayoria de las caractericas
+- cambio al shader de los materiales ya que la mayoria de las caractericas
   de los shaders default de unity no se estaban utilzando
   
--Eliminacion de rigid bodies inecesarios que estaban afectando el rendimiento
+- Eliminacion de rigid bodies inecesarios que estaban afectando el rendimiento
 
--Actualizacion de animacion de catapulta
+- Actualizacion de animacion de catapulta
 
--Se agrego un pequeño sistema de particulas
+- Se agrego un pequeño sistema de particulas
 
--Animacion de introduccion como video
+- Animacion de introduccion como video
