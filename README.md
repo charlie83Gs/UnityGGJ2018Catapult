@@ -26,9 +26,9 @@ Cosas por hacer(podrian hacerse):
 
 -Tutorial
 
-
-
-
+-
+-
+-
 //si hay suficientes cambios modifiquen inventense la version que sigue y los listan
 
 
