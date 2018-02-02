@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: da880ac7ee147424d9927a8e74d9094c
+timeCreated: 1517119282
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: catapulta:Ankle_L
+    100002: catapulta:Ankle_R
+    100004: catapulta:Chest_M
+    100006: catapulta:DeformationSystem
+    100008: catapulta:Elbow_L
+    100010: catapulta:Elbow_R
+    100012: catapulta:ElbowPart1_L
+    100014: catapulta:ElbowPart1_R
+    100016: catapulta:ElbowPart2_L
+    100018: catapulta:ElbowPart2_R
+    100020: catapulta:Group
+    100022: catapulta:grpNurbsCircle8ZERO
+    100024: catapulta:grpNurbsCircle9ZERO
+    100026: catapulta:Head_M
+    100028: catapulta:HeadEnd_M
+    100030: catapulta:Hip_L
+    100032: catapulta:Hip_R
+    100034: catapulta:HipPart1_L
+    100036: catapulta:HipPart1_R
+    100038: catapulta:HipPart2_L
+    100040: catapulta:HipPart2_R
+    100042: catapulta:joint1
+    100044: catapulta:joint10
+    100046: catapulta:joint11
+    100048: catapulta:joint12
+    100050: catapulta:joint13
+    100052: catapulta:joint14
+    100054: catapulta:joint2
+    100056: catapulta:joint3
+    100058: catapulta:joint4
+    100060: catapulta:joint5
+    100062: catapulta:joint6
+    100064: catapulta:joint7
+    100066: catapulta:joint8
+    100068: catapulta:joint9
+    100070: catapulta:Joints_catapulta
+    100072: catapulta:Knee_L
+    100074: catapulta:Knee_R
+    100076: catapulta:Main
+    100078: catapulta:Neck_M
+    100080: catapulta:NeckPart1_M
+    100082: catapulta:NeckPart2_M
+    100084: catapulta:nurbsCircle8
+    100086: catapulta:nurbsCircle9
+    100088: catapulta:polySurface11
+    100090: catapulta:polySurface14
+    100092: catapulta:polySurface15
+    100094: catapulta:polySurface9
+    100096: catapulta:Root_M
+    100098: catapulta:RootPart1_M
+    100100: catapulta:RootPart2_M
+    100102: catapulta:Scapula_L
+    100104: catapulta:Scapula_R
+    100106: catapulta:Shoulder_L
+    100108: catapulta:Shoulder_R
+    100110: catapulta:ShoulderPart1_L
+    100112: catapulta:ShoulderPart1_R
+    100114: catapulta:ShoulderPart2_L
+    100116: catapulta:ShoulderPart2_R
+    100118: catapulta:Spine1_M
+    100120: catapulta:Spine1Part1_M
+    100122: catapulta:Spine1Part2_M
+    100124: catapulta:Toes_L
+    100126: catapulta:Toes_R
+    100128: catapulta:ToesEnd_L
+    100130: catapulta:ToesEnd_R
+    100132: catapulta:Vikingo
+    100134: catapulta:vikingo:Mesh
+    100136: catapulta:Wrist_L
+    100138: catapulta:Wrist_R
+    100140: //RootNode
+    400000: catapulta:Ankle_L
+    400002: catapulta:Ankle_R
+    400004: catapulta:Chest_M
+    400006: catapulta:DeformationSystem
+    400008: catapulta:Elbow_L
+    400010: catapulta:Elbow_R
+    400012: catapulta:ElbowPart1_L
+    400014: catapulta:ElbowPart1_R
+    400016: catapulta:ElbowPart2_L
+    400018: catapulta:ElbowPart2_R
+    400020: catapulta:Group
+    400022: catapulta:grpNurbsCircle8ZERO
+    400024: catapulta:grpNurbsCircle9ZERO
+    400026: catapulta:Head_M
+    400028: catapulta:HeadEnd_M
+    400030: catapulta:Hip_L
+    400032: catapulta:Hip_R
+    400034: catapulta:HipPart1_L
+    400036: catapulta:HipPart1_R
+    400038: catapulta:HipPart2_L
+    400040: catapulta:HipPart2_R
+    400042: catapulta:joint1
+    400044: catapulta:joint10
+    400046: catapulta:joint11
+    400048: catapulta:joint12
+    400050: catapulta:joint13
+    400052: catapulta:joint14
+    400054: catapulta:joint2
+    400056: catapulta:joint3
+    400058: catapulta:joint4
+    400060: catapulta:joint5
+    400062: catapulta:joint6
+    400064: catapulta:joint7
+    400066: catapulta:joint8
+    400068: catapulta:joint9
+    400070: catapulta:Joints_catapulta
+    400072: catapulta:Knee_L
+    400074: catapulta:Knee_R
+    400076: catapulta:Main
+    400078: catapulta:Neck_M
+    400080: catapulta:NeckPart1_M
+    400082: catapulta:NeckPart2_M
+    400084: catapulta:nurbsCircle8
+    400086: catapulta:nurbsCircle9
+    400088: catapulta:polySurface11
+    400090: catapulta:polySurface14
+    400092: catapulta:polySurface15
+    400094: catapulta:polySurface9
+    400096: catapulta:Root_M
+    400098: catapulta:RootPart1_M
+    400100: catapulta:RootPart2_M
+    400102: catapulta:Scapula_L
+    400104: catapulta:Scapula_R
+    400106: catapulta:Shoulder_L
+    400108: catapulta:Shoulder_R
+    400110: catapulta:ShoulderPart1_L
+    400112: catapulta:ShoulderPart1_R
+    400114: catapulta:ShoulderPart2_L
+    400116: catapulta:ShoulderPart2_R
+    400118: catapulta:Spine1_M
+    400120: catapulta:Spine1Part1_M
+    400122: catapulta:Spine1Part2_M
+    400124: catapulta:Toes_L
+    400126: catapulta:Toes_R
+    400128: catapulta:ToesEnd_L
+    400130: catapulta:ToesEnd_R
+    400132: catapulta:Vikingo
+    400134: catapulta:vikingo:Mesh
+    400136: catapulta:Wrist_L
+    400138: catapulta:Wrist_R
+    400140: //RootNode
+    2100000: catapulta_cafe
+    2100002: lambert1
+    2100004: catapulta_piel
+    2100006: catapulta_turquesa
+    2100008: red
+    2100010: catapulta_lambert7
+    2100012: catapulta_lambert8
+    2100014: catapulta_amarillo
+    2100016: catapulta_cuerda_amarilla
+    4300000: catapulta:vikingo:Mesh
+    4300002: catapulta:polySurface9
+    4300004: catapulta:polySurface14
+    4300006: catapulta:polySurface15
+    4300008: catapulta:polySurface11
+    7400000: Disparo
+    7400002: Frame1
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: catapulta:polySurface11
+    13700002: catapulta:polySurface14
+    13700004: catapulta:polySurface15
+    13700006: catapulta:polySurface9
+    13700008: catapulta:vikingo:Mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 1
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Disparo
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 144
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Frame1
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
