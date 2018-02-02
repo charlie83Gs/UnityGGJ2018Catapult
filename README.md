@@ -4,17 +4,17 @@
 //cualquer cosa que consideren deberia de ir aqui agregenla
 Cosas por hacer(podrian hacerse):
 
--Creditos
--Pausa
--Modos de juego(mejor de 3,5,7 etc)
--Transiciones
--Particulas
--Poder especial de easter egg
--Optimizacion de generacion de mundo combinando meshes
--Sonidos
--Configuracion de controles en el juego
--Almacenamiento de datos no volatil
--Tutorial
+-Creditos.
+-Pausa.
+-Modos de juego(mejor de 3,5,7 etc).
+-Transiciones.
+-Particulas.
+-Poder especial de easter egg.
+-Optimizacion de generacion de mundo combinando meshes.
+-Sonidos.
+-Configuracion de controles en el juego.
+-Almacenamiento de datos no volatil.
+-Tutorial.
 
 
 
