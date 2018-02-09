@@ -31,18 +31,18 @@ public class PlayerControl : MonoBehaviour {
 		bool a = false;
 		bool d = false;
 
-		if (Input.GetAxis ("VerticalJ1") > 0.01) {
+		if (Input.GetAxis (vertical_axis) > 0.01) {
 			w = true;
 		}
-		if (Input.GetAxis ("VerticalJ1") < -0.01) {
+		if (Input.GetAxis (vertical_axis) < -0.01) {
 			s = true;
 		}
 
-		if (Input.GetAxis ("HorizontalJ1") > 0.01) {
+		if (Input.GetAxis (horizontal_axis) > 0.01) {
 			d = true;
 		}
 
-		if (Input.GetAxis ("HorizontalJ1") < -0.01) {
+		if (Input.GetAxis (horizontal_axis) < -0.01) {
 			a = true;
 		}
 

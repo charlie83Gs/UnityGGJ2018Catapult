@@ -13,6 +13,9 @@ public class Apuntador : MonoBehaviour {
 	public KeyCode down = KeyCode.S;
 	public KeyCode left = KeyCode.A;
 	public KeyCode right = KeyCode.D;
+
+	public string vertical_axis;
+	public string horizontal_axis;
 	// Use this for initialization
 	void Start () {
 		
@@ -34,9 +37,9 @@ public class Apuntador : MonoBehaviour {
 		}
 
 		if (enabledx) {
-			float x = Input.GetAxis ("HorizontalJ1");
+			float x = Input.GetAxis (horizontal_axis);
 
-			float y = Input.GetAxis ("VerticalJ1");
+			float y = Input.GetAxis (vertical_axis);
 			this.transform.Translate (new Vector3(speed*x,0.0f,0.0f), Space.World);
 			this.transform.Translate (new Vector3(0.0f,0.0f,speed*y), Space.World);
 		}
