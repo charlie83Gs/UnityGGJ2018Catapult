@@ -25,7 +25,7 @@ public class PauseManager : MonoBehaviour {
 		}
 		if (pause.GetComponent<Canvas>().enabled==false)
 		{
-			PausedTime ();		
+			EndPausedTime ();		
 		}
 else
 		{
@@ -41,8 +41,9 @@ else
 
        
     }
-	public void PausedTime()
+	public void EndPausedTime()
 	{		
+		// EventSystem es un Objeto con componentes para la navegación en Unity UI, si este no se desactiva los componentes de UI seguiran funcionando.
 		EventSystem.SetActive(false); 		
 		Time.timeScale = 1;
 
