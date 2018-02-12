@@ -1,12 +1,8 @@
-# UnityGGJ2018Catapult
+﻿# UnityGGJ2018Catapult
 
 
 //cualquer cosa que consideren deberia de ir aqui agregenla
 Cosas por hacer(podrian hacerse):
-
-- Creditos
-
-- Pausa
 
 - Modos de juego(mejor de 3,5,7 etc)
 
@@ -42,7 +38,9 @@ Cosas por hacer(podrian hacerse):
 
 
 
-Version 2.0.1
+Version 2.0.2
+
+- UI Funcional.
 
 - Unificacion de scripts de control
 

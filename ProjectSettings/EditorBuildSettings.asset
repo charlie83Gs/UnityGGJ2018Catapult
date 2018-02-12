@@ -14,3 +14,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenas/Principal.unity
     guid: dd521a3765198a640a82df366f1b377c
+  - enabled: 1
+    path: Assets/Scenas/Controls.unity
+    guid: 2d12db3c4a48e544a81873b56fde54a1
+  - enabled: 1
+    path: Assets/Scenas/Credits.unity
+    guid: 27dd352722f7dc546a901f2e3f72c5e3
